@@ -14,7 +14,6 @@ const updateBackpack = (update) => {
 };
 
 const backpack = {
-  volume: 30,
     name: 'Everyday Backpack',
     volume: 30,
     color: 'grey',
